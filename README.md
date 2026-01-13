@@ -92,7 +92,7 @@ I come from a business background and transitioned into software development thr
 ## 📫 Connect With Me
 
 -  Email: **asif.connectmail@gmail.com**  
--  LinkedIn: https://www.linkedin.com/in/asif-s-sheenu/  
+-  LinkedIn:[ https://www.linkedin.com/in/asif-s-sheenu/  ](https://www.linkedin.com/in/asif-s-sheenu-/)
 
 ---
 
