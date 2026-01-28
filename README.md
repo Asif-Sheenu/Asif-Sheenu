@@ -58,17 +58,15 @@ I come from a business background and transitioned into software development thr
 - Implemented global state management using Context API  
 - Focused on reusable components and clean UI/UX  
 
-🔗 **Repo:** https://github.com/aswin-0404/React-Pet-Food-E-commerce  
 
 ---
 
-###  PawChaw – E-Commerce Backend
+###  PawFect – E-Commerce Backend
 **Tech:** Django, Django REST Framework, PostgreSQL, JWT  
 - Developed a scalable REST API for authentication, cart, orders, and products  
 - Implemented JWT-based authentication and role-based access  
 - Designed relational database models for clean and efficient data handling  
 
- **Repo:** https://github.com/aswin-0404/PawChaw-Backend  
 
 ---
 
