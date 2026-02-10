@@ -70,23 +70,6 @@ I come from a business background and transitioned into software development thr
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asif-sheenu&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif-sheenu&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asif-sheenu&theme=radical" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 -  Email: **asif.connectmail@gmail.com**  
